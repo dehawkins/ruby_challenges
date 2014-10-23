@@ -1,0 +1,10 @@
+# mymath_method
+# D.Hawkins
+# Basic Function using ruby to add 2 numbers
+
+def mymath_method(firstnumb, secondnumb)
+  ans = firstnumb + secondnumb
+  puts " Add #{firstnumb} +  #{secondnumb} = #{ans}"
+end
+
+mymath_method(88, 99)

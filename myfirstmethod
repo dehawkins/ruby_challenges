@@ -1,0 +1,5 @@
+def myfirstmethod
+ puts "This is my first method."
+end
+
+myfirstmethod

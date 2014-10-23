@@ -1,0 +1,8 @@
+# A method that adds 2 + 2
+# D. Hawkins
+def add2method
+ numb = 2 + 2
+ puts " The result is #{numb}."
+end
+
+add2method
